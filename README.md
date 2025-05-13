@@ -1,7 +1,7 @@
 # Iris Flower Classification 
 This is a simple machine learning project that classifies iris flowers into species — Setosa, Versicolor, and Virginica — based on petal and sepal measurements.
 
-## 🔍 Overview
+## Overview
 Using the **Iris dataset**, this project applies standard data preprocessing and a **Logistic Regression model** to predict the flower species.
 
 ## Dataset
@@ -20,7 +20,7 @@ The dataset used (`iris.csv`) is included in the repository. It contains the fol
 - scikit-learn
 - Google Colab (initial development)
 
-## 📊 Model
+## Model
 - **Model Used**: Logistic Regression
 
 ## Installation
